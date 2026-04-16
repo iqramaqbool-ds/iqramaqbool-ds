@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**iqramaqbool-ds/iqramaqbool-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Iqra Maqbool 👋
 
-Here are some ideas to get you started:
+🎓 **Data Science Student** @ The Superior University, Lahore, Pakistan  
+📊 **Skills:** Python | Pandas | Microsoft Excel | SQL | Data Analysis  
+🔭 **Currently:** Working on university projects & learning data visualization  
+🌱 **Open to:** Remote internships and freelance data projects  
+📫 **Email:** iqram13647@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📌 Featured Projects Coming Soon
+I'll upload my first data analysis project here this week.
+
+⭐️ From Lahore, Pakistan
